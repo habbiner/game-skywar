@@ -32,6 +32,14 @@ Guiados pela determinação e coragem, os jogadores embarcam em uma missão épi
 
 <img src="media/vd01.gif">
 
-<hr>
+# Links para sua Gameplay
 
+- Repositório Git: <a href="https://github.com/habbiner/game-skywar" target="_blank">Clique aqui! </a>
 
+- Hospedagem Jogo: <a href="https://skywar-dsm2.netlify.app" target="_blank"> Clique para jogar. </a>
+
+- PhpMyAdmin: <a href="https://www.phpmyadmin.net" target="_blank">https://www.phpmyadmin.net </a>
+
+- 000WebHost: <a href="https://br.000webhost.com" target="_blank">https://br.000webhost.com </a>
+
+- Construct 3: <a href="https://www.construct.net/en" target="_blank">https://www.construct.net/en </a>
