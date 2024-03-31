@@ -30,7 +30,7 @@ Guiados pela determinação e coragem, os jogadores embarcam em uma missão épi
 
 ## Gameplay 📹
 
-<video width="700px" controls src="media/vd01.mp4">
+<img src="media/vd01.gif">
 
 <hr>
 
